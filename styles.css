@@ -1,0 +1,91 @@
+#makima {
+    font-family: COURIER;
+    font-size: 50px;
+    text-emphasis: underline;
+    color: Darkred;
+    opacity:1;
+}
+
+#name {
+    font-family: impact;
+    font-size: 50px;
+    text-emphasis: underline;
+    color:crimson;
+    opacity:0.5;
+}
+
+#name1 {
+    font-family: impact;
+    font-size: 30px;
+    text-emphasis: underline;
+    color:navy;
+    opacity:0.8;
+}
+
+.bg_h{
+    background-color:LemonChiffon;
+}
+
+.bg_b{
+    background-color:Gainsboro;
+}
+
+.bg_bl{
+    background-color:LightGoldenrodYellow;
+}
+
+.bg_r{
+    background-color:NavajoWhite;
+}
+
+.welcome{
+    font-family: arial black;
+    font-size: 40px;
+    text-emphasis: underline;
+    color:IndianRed;
+    opacity:0.5;
+}
+
+.about{
+    font-family: arial black;
+    font-size: 30px;
+    text-emphasis: underline;
+    color:navy;
+    opacity:0.5;
+}
+
+.most{
+    font-family: arial black;
+    font-size: 15px;
+    color:DarkSlateGray;
+    opacity:0.5;
+    text-decoration: underline;
+}
+
+.h1{
+    font-family:impact;
+}
+
+.ul{
+    display: inline;
+}
+li:hover {
+    color: MediumPurple;
+}
+li{
+    font-family: arial black;
+    font-size: 15px;
+    text-emphasis: underline;
+    color:SteelBlue;
+}
+tr{
+    font-family: arial black;
+    font-size: 15px;
+    color:LightSlateGray;
+}
+p.clip{
+    white-space:normal;
+    font-family: lucida;
+    font-size: 20px;
+    color:DimGray;
+}
